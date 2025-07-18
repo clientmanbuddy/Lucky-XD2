@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "name: Node.js CI
+SESSION_ID: process.env.SESSION_ID || "lucky~PdFHUSzI#-ccQt8327K-gypFFH__76t6uTnJp5d9Buu1pVycddMg",
 
 on:
   push:
@@ -100,7 +100,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "98300 63209",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "967775867423",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "Hy_Buddy",
